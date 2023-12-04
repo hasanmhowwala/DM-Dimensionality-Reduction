@@ -1,0 +1,1001 @@
+Car ID,Car Brand,Car Model,Year of Manufacture,Rental Price per Day,Location,Mileage,Fuel Type,Transmission Type,Availability
+1,Honda,Convertible,2006,72.18,New York,162971,Diesel,Manual,Yes
+2,Nissan,Convertible,2010,96.04,Miami,32083,Electric,Manual,Yes
+3,BMW,Convertible,2009,68.05,New York,67708,Hybrid,Manual,No
+4,Nissan,Convertible,2008,79.49,New York,111462,Electric,Manual,No
+5,Nissan,Truck,2013,60.5,Chicago,147735,Diesel,Automatic,No
+6,Ford,Truck,2012,70.73,Houston,93076,Hybrid,Automatic,Yes
+7,BMW,SUV,2001,25.67,Chicago,19053,Hybrid,Manual,Yes
+8,BMW,Sedan,2002,40.35,New York,142157,Hybrid,Automatic,Yes
+9,BMW,Convertible,2006,48.95,Miami,161636,Electric,Automatic,No
+10,Nissan,SUV,2020,57.8,Chicago,89745,Diesel,Manual,No
+11,Honda,Sedan,2017,23.65,Chicago,190167,Hybrid,Automatic,No
+12,BMW,Hatchback,2002,31.2,Los Angeles,69517,Petrol,Manual,Yes
+13,Nissan,Truck,2009,42.15,New York,152225,Diesel,Automatic,Yes
+14,Ford,Sedan,2021,97.72,Miami,136319,Petrol,Manual,No
+15,Honda,Hatchback,2006,46.51,Chicago,141625,Petrol,Manual,Yes
+16,Ford,Sedan,2008,58.56,Chicago,151883,Hybrid,Automatic,No
+17,Honda,Truck,2016,35.69,Miami,137207,Hybrid,Automatic,Yes
+18,Nissan,Truck,2010,68.86,New York,136645,Electric,Manual,No
+19,Toyota,SUV,2006,42.45,Los Angeles,79267,Electric,Manual,Yes
+20,Honda,Convertible,2013,36.56,Chicago,138261,Electric,Manual,Yes
+21,Ford,Sedan,2018,61.33,Los Angeles,80077,Diesel,Automatic,No
+22,Nissan,Sedan,2003,20.44,Houston,174718,Electric,Automatic,No
+23,Honda,Hatchback,2005,20.61,New York,76623,Petrol,Automatic,No
+24,Toyota,Truck,2009,37.53,Houston,131004,Electric,Automatic,No
+25,Toyota,Sedan,2006,22.94,Houston,53687,Hybrid,Manual,No
+26,BMW,Truck,2012,28.64,Houston,68312,Electric,Manual,Yes
+27,BMW,Sedan,2013,47.11,New York,107615,Diesel,Manual,No
+28,Ford,SUV,2003,84.21,New York,130976,Diesel,Manual,No
+29,Honda,Convertible,2007,65.76,Miami,27564,Petrol,Automatic,No
+30,Honda,Sedan,2004,61.01,Los Angeles,28835,Diesel,Manual,Yes
+31,BMW,Truck,2000,43.48,Los Angeles,192659,Electric,Manual,No
+32,Honda,SUV,2003,94.54,Miami,7697,Hybrid,Automatic,No
+33,Honda,Sedan,2002,51.76,Miami,80165,Diesel,Automatic,No
+34,Toyota,Hatchback,2008,26.97,Houston,148118,Petrol,Manual,Yes
+35,BMW,Convertible,2007,69.37,Miami,57823,Electric,Automatic,Yes
+36,Nissan,Sedan,2000,29.11,Chicago,184442,Petrol,Manual,No
+37,BMW,SUV,2005,47.62,Los Angeles,9615,Diesel,Automatic,Yes
+38,Nissan,Hatchback,2008,60.59,Miami,136132,Diesel,Automatic,No
+39,Toyota,SUV,2006,89.94,Chicago,130499,Petrol,Manual,Yes
+40,Ford,SUV,2003,59.48,Chicago,76436,Electric,Automatic,No
+41,Honda,Hatchback,2012,76.18,Chicago,191591,Diesel,Manual,Yes
+42,Toyota,SUV,2016,99.43,Chicago,120562,Hybrid,Automatic,No
+43,Honda,Hatchback,2001,30.52,Houston,71117,Diesel,Automatic,No
+44,Ford,Sedan,2004,41.98,Chicago,192230,Electric,Automatic,Yes
+45,Ford,Hatchback,2011,51.57,Houston,34782,Diesel,Automatic,No
+46,Toyota,Hatchback,2020,53.75,Houston,78533,Petrol,Automatic,No
+47,Ford,Convertible,2007,52.88,Chicago,189327,Diesel,Manual,No
+48,Nissan,Hatchback,2005,92.61,Los Angeles,72684,Diesel,Automatic,No
+49,Ford,Hatchback,2007,77.12,Chicago,187990,Electric,Manual,Yes
+50,Honda,Sedan,2017,68.63,Chicago,79558,Petrol,Automatic,No
+51,Honda,Convertible,2002,44.75,Chicago,81422,Electric,Manual,Yes
+52,Honda,Truck,2021,85.9,Los Angeles,156328,Diesel,Automatic,Yes
+53,Honda,Sedan,2011,96.4,New York,161077,Hybrid,Manual,Yes
+54,Nissan,Sedan,2002,85.7,New York,6638,Diesel,Manual,Yes
+55,BMW,Truck,2021,20.13,Houston,37419,Electric,Automatic,No
+56,Toyota,Hatchback,2005,70.91,Houston,33377,Hybrid,Automatic,No
+57,Honda,SUV,2001,24.09,Los Angeles,106244,Electric,Automatic,Yes
+58,Ford,Convertible,2022,40.61,Miami,174188,Electric,Manual,No
+59,Honda,SUV,2011,24.76,New York,167706,Petrol,Manual,Yes
+60,Ford,Truck,2001,68.3,Houston,23382,Hybrid,Automatic,No
+61,Ford,Sedan,2005,74.93,New York,187135,Diesel,Automatic,No
+62,Honda,Sedan,2016,29.16,Los Angeles,153466,Electric,Manual,No
+63,Nissan,Convertible,2002,50.71,Los Angeles,67789,Diesel,Manual,Yes
+64,Ford,Sedan,2001,56.5,Miami,110634,Petrol,Automatic,Yes
+65,Ford,Sedan,2022,49.52,Miami,131936,Petrol,Manual,No
+66,Honda,Convertible,2019,29.68,Los Angeles,99572,Hybrid,Automatic,Yes
+67,Ford,Convertible,2007,53.52,Houston,171294,Petrol,Automatic,Yes
+68,Ford,Truck,2021,80.09,New York,144738,Petrol,Automatic,No
+69,Honda,Sedan,2011,25.68,Chicago,123664,Diesel,Manual,Yes
+70,Honda,Sedan,2003,26.41,Miami,152027,Petrol,Manual,No
+71,Toyota,Truck,2004,48.38,Chicago,110674,Petrol,Manual,No
+72,Nissan,Hatchback,2012,95.34,Houston,103533,Electric,Manual,No
+73,Nissan,Hatchback,2014,73.49,Miami,81845,Petrol,Automatic,Yes
+74,Ford,Hatchback,2022,74.29,Chicago,69590,Electric,Manual,No
+75,Nissan,Truck,2015,48.95,Houston,127775,Petrol,Automatic,No
+76,Ford,Sedan,2009,67.49,New York,66471,Petrol,Automatic,Yes
+77,Toyota,Truck,2022,20.81,Houston,43298,Hybrid,Automatic,Yes
+78,Honda,Truck,2015,70.89,Miami,194180,Hybrid,Manual,Yes
+79,Honda,Hatchback,2011,93.06,Los Angeles,48924,Electric,Automatic,Yes
+80,Honda,SUV,2016,69.01,New York,147781,Petrol,Automatic,No
+81,Nissan,Sedan,2015,89.9,Chicago,9726,Diesel,Manual,Yes
+82,Toyota,Hatchback,2011,77.92,Miami,191896,Hybrid,Automatic,Yes
+83,Nissan,SUV,2007,29.64,Los Angeles,40542,Diesel,Manual,Yes
+84,Nissan,SUV,2019,92.2,Houston,151317,Hybrid,Manual,Yes
+85,Toyota,Convertible,2002,25.32,Los Angeles,34753,Hybrid,Manual,No
+86,Toyota,Sedan,2015,62.72,Miami,79788,Petrol,Automatic,Yes
+87,Toyota,SUV,2012,31.37,Miami,21316,Hybrid,Manual,No
+88,Toyota,Hatchback,2022,20.94,Los Angeles,84698,Diesel,Manual,Yes
+89,Honda,Convertible,2018,53.76,Houston,15960,Hybrid,Manual,No
+90,BMW,Sedan,2007,43.6,Los Angeles,30791,Electric,Manual,No
+91,BMW,Truck,2021,58.88,Miami,25216,Petrol,Automatic,Yes
+92,Toyota,Hatchback,2004,66.18,Miami,163539,Petrol,Manual,No
+93,BMW,SUV,2019,23.5,Chicago,64427,Electric,Automatic,Yes
+94,BMW,SUV,2007,29.84,Chicago,112470,Electric,Manual,No
+95,Toyota,Hatchback,2011,64.69,New York,193119,Electric,Automatic,No
+96,BMW,SUV,2000,47.45,Miami,73290,Hybrid,Manual,No
+97,Nissan,Convertible,2020,78.33,Chicago,47014,Petrol,Automatic,Yes
+98,Ford,Sedan,2019,72.18,Los Angeles,135150,Electric,Manual,No
+99,Ford,Convertible,2005,87.65,Houston,50519,Hybrid,Automatic,Yes
+100,Toyota,SUV,2021,75.4,Los Angeles,4042,Electric,Automatic,No
+101,Honda,Truck,2017,54.39,Houston,49052,Diesel,Automatic,No
+102,Toyota,Sedan,2007,73.84,Chicago,14389,Diesel,Manual,No
+103,Honda,Sedan,2006,42.03,New York,95961,Petrol,Automatic,No
+104,Ford,Hatchback,2000,44.51,Los Angeles,68111,Hybrid,Automatic,No
+105,Toyota,Hatchback,2020,83.12,Los Angeles,105058,Diesel,Automatic,No
+106,Nissan,Truck,2015,55.71,Los Angeles,93715,Diesel,Automatic,Yes
+107,BMW,Sedan,2011,83.87,Houston,50733,Hybrid,Manual,Yes
+108,Honda,Truck,2005,85.79,Chicago,34754,Electric,Automatic,Yes
+109,BMW,Hatchback,2019,88.6,Los Angeles,149696,Hybrid,Automatic,No
+110,BMW,Hatchback,2001,93.33,Los Angeles,85886,Electric,Automatic,Yes
+111,Toyota,Sedan,2013,54.48,New York,157753,Diesel,Manual,No
+112,BMW,Convertible,2003,45.51,New York,89524,Diesel,Automatic,Yes
+113,Nissan,SUV,2000,66.58,Chicago,81006,Diesel,Automatic,Yes
+114,BMW,Hatchback,2022,49.69,Chicago,24704,Petrol,Automatic,No
+115,Toyota,Hatchback,2017,68.09,Miami,94913,Petrol,Automatic,No
+116,Nissan,Convertible,2012,76.45,New York,94108,Petrol,Manual,Yes
+117,Ford,Convertible,2001,75.07,Miami,7493,Hybrid,Automatic,Yes
+118,BMW,Truck,2008,49.96,Houston,69639,Diesel,Automatic,Yes
+119,Toyota,Truck,2020,33.35,Miami,54383,Diesel,Manual,Yes
+120,Ford,SUV,2001,54.44,Los Angeles,134066,Hybrid,Manual,No
+121,Ford,SUV,2008,31.41,Miami,47234,Petrol,Manual,Yes
+122,Honda,Sedan,2000,91.21,Chicago,178363,Hybrid,Automatic,No
+123,Nissan,Truck,2010,47.67,Houston,128674,Petrol,Manual,No
+124,BMW,Hatchback,2002,32.36,Los Angeles,5594,Diesel,Automatic,Yes
+125,Toyota,Truck,2019,22.04,Miami,7371,Electric,Manual,No
+126,Honda,Hatchback,2022,71.67,Houston,47315,Petrol,Automatic,Yes
+127,Nissan,Convertible,2003,70.95,Houston,127251,Diesel,Manual,No
+128,Honda,Truck,2017,47.25,Los Angeles,79526,Diesel,Automatic,No
+129,Nissan,Convertible,2022,25.74,Miami,147698,Electric,Manual,Yes
+130,Nissan,SUV,2005,52.77,Houston,86005,Diesel,Automatic,No
+131,BMW,SUV,2002,44.9,Houston,105573,Diesel,Automatic,No
+132,Nissan,Sedan,2021,74.17,New York,138202,Petrol,Automatic,Yes
+133,Honda,Truck,2010,68.46,Houston,137900,Petrol,Automatic,No
+134,Nissan,Convertible,2014,49.17,New York,57514,Electric,Automatic,No
+135,BMW,Hatchback,2021,37.43,Miami,183736,Electric,Automatic,Yes
+136,BMW,SUV,2004,99.04,Miami,148955,Diesel,Automatic,Yes
+137,Honda,SUV,2019,56.32,Miami,174131,Petrol,Automatic,No
+138,Ford,Hatchback,2009,75.06,Chicago,174004,Electric,Manual,No
+139,Ford,Convertible,2011,31.24,Miami,192341,Electric,Automatic,No
+140,Nissan,Convertible,2014,58.85,Houston,75986,Hybrid,Automatic,Yes
+141,Toyota,Truck,2016,22.2,Los Angeles,85959,Electric,Manual,No
+142,Nissan,Truck,2009,60.44,New York,2035,Diesel,Automatic,No
+143,Honda,Sedan,2005,97.12,Chicago,109767,Petrol,Manual,No
+144,Honda,SUV,2017,50.74,Miami,171817,Electric,Automatic,No
+145,Honda,Truck,2012,23.12,Miami,17241,Hybrid,Manual,No
+146,Honda,Convertible,2002,22.48,Los Angeles,52975,Petrol,Manual,No
+147,Honda,Hatchback,2009,51.04,Los Angeles,154226,Electric,Automatic,Yes
+148,BMW,Convertible,2013,32.8,Chicago,156697,Hybrid,Manual,Yes
+149,Ford,SUV,2005,21.87,New York,176022,Electric,Automatic,No
+150,Honda,Convertible,2002,80.5,Miami,56396,Petrol,Automatic,No
+151,Toyota,Sedan,2015,56.68,Chicago,118920,Petrol,Automatic,Yes
+152,Toyota,SUV,2006,43.14,Houston,144403,Petrol,Automatic,Yes
+153,Toyota,Hatchback,2019,92.01,Houston,194999,Diesel,Manual,Yes
+154,Toyota,Sedan,2013,29.29,Chicago,86226,Electric,Automatic,No
+155,BMW,SUV,2008,96.47,Miami,84719,Diesel,Manual,No
+156,Toyota,Hatchback,2014,45.12,Chicago,63014,Petrol,Manual,No
+157,Honda,Sedan,2020,91.07,Miami,39346,Hybrid,Automatic,No
+158,Nissan,Sedan,2002,68.24,Los Angeles,70411,Electric,Automatic,Yes
+159,Toyota,SUV,2001,86.14,Chicago,185550,Diesel,Automatic,Yes
+160,BMW,Truck,2001,98.72,Miami,143326,Electric,Automatic,Yes
+161,BMW,Sedan,2002,43.07,Chicago,186806,Hybrid,Manual,Yes
+162,Toyota,Sedan,2017,96.89,Chicago,159693,Diesel,Automatic,No
+163,Nissan,Hatchback,2013,51.16,Miami,76441,Petrol,Manual,No
+164,Toyota,Convertible,2019,50.84,Miami,46121,Diesel,Automatic,Yes
+165,BMW,SUV,2017,47.23,New York,60197,Electric,Automatic,Yes
+166,Ford,SUV,2009,63.31,Chicago,84577,Electric,Automatic,Yes
+167,Honda,Truck,2001,32.33,Houston,94634,Electric,Automatic,Yes
+168,BMW,Truck,2021,64.3,Chicago,173503,Electric,Manual,Yes
+169,Toyota,SUV,2000,63.34,Chicago,100211,Petrol,Manual,No
+170,Honda,Truck,2003,80.95,Miami,135909,Diesel,Automatic,No
+171,Toyota,Hatchback,2013,86.69,Chicago,180066,Petrol,Manual,Yes
+172,Toyota,SUV,2000,55.24,Chicago,143687,Petrol,Manual,Yes
+173,Ford,Truck,2013,44.19,Houston,1466,Petrol,Automatic,Yes
+174,Honda,SUV,2015,40.75,Miami,30771,Electric,Automatic,No
+175,Honda,Convertible,2021,35.57,Chicago,83886,Electric,Manual,No
+176,Ford,Sedan,2013,24.61,Los Angeles,65911,Electric,Manual,No
+177,BMW,SUV,2019,47.4,New York,151818,Diesel,Manual,Yes
+178,Toyota,Sedan,2002,41.62,Houston,88422,Hybrid,Manual,No
+179,Nissan,Truck,2002,97.31,Chicago,191811,Electric,Automatic,Yes
+180,Toyota,Sedan,2008,64.62,Los Angeles,73369,Diesel,Automatic,No
+181,Toyota,SUV,2005,47.78,Chicago,1893,Electric,Manual,No
+182,BMW,Convertible,2012,66.44,Chicago,30573,Electric,Automatic,No
+183,Toyota,Truck,2020,31.14,Miami,96907,Petrol,Manual,Yes
+184,Ford,SUV,2001,55.52,Miami,171946,Petrol,Manual,Yes
+185,Ford,Truck,2007,70.1,Miami,99956,Petrol,Automatic,No
+186,Honda,Hatchback,2020,59.11,Los Angeles,118580,Diesel,Manual,Yes
+187,Nissan,Sedan,2001,52.14,Chicago,164439,Hybrid,Manual,Yes
+188,Toyota,Hatchback,2003,99.51,New York,152271,Hybrid,Automatic,Yes
+189,Toyota,SUV,2014,90.43,Houston,91404,Diesel,Automatic,Yes
+190,BMW,Convertible,2003,69.87,Miami,57724,Electric,Manual,Yes
+191,Ford,Truck,2012,65.55,Miami,86133,Diesel,Manual,Yes
+192,Nissan,Sedan,2011,69.65,Chicago,167477,Electric,Automatic,Yes
+193,Honda,Truck,2012,36.1,Chicago,15989,Diesel,Manual,No
+194,Ford,SUV,2013,51.61,Los Angeles,28931,Diesel,Manual,Yes
+195,Honda,Truck,2019,23.16,Los Angeles,9290,Diesel,Automatic,Yes
+196,BMW,Sedan,2017,58.04,Miami,169439,Hybrid,Automatic,No
+197,BMW,SUV,2005,63.44,Chicago,121136,Petrol,Automatic,No
+198,Toyota,Truck,2010,38.22,New York,79878,Diesel,Automatic,No
+199,Nissan,Convertible,2001,97.12,Houston,90477,Hybrid,Automatic,No
+200,Honda,SUV,2022,92.76,Chicago,126299,Petrol,Automatic,Yes
+201,Ford,SUV,2018,77.77,Chicago,161205,Petrol,Manual,No
+202,BMW,Convertible,2018,62.67,Los Angeles,105686,Diesel,Manual,No
+203,Toyota,Hatchback,2004,89.6,Houston,158124,Electric,Automatic,Yes
+204,Toyota,Sedan,2018,30.45,Miami,107286,Electric,Automatic,Yes
+205,Honda,Hatchback,2001,83.24,Chicago,40475,Electric,Manual,Yes
+206,BMW,Truck,2009,29.99,Miami,82666,Diesel,Manual,No
+207,Nissan,Convertible,2001,83.54,Chicago,96622,Electric,Manual,Yes
+208,BMW,Hatchback,2010,42.06,Miami,188728,Hybrid,Automatic,No
+209,Honda,SUV,2017,90.17,Houston,135705,Hybrid,Automatic,Yes
+210,Honda,Truck,2014,95.52,Los Angeles,148376,Hybrid,Manual,Yes
+211,BMW,Truck,2008,31.9,Houston,107573,Hybrid,Automatic,No
+212,Honda,Hatchback,2022,57.01,New York,46546,Petrol,Automatic,Yes
+213,BMW,Hatchback,2018,98.48,Los Angeles,7008,Hybrid,Automatic,Yes
+214,Ford,Convertible,2008,58.67,Houston,48291,Electric,Manual,Yes
+215,BMW,Sedan,2002,89.08,New York,158477,Diesel,Manual,Yes
+216,BMW,Hatchback,2020,67.1,Chicago,36386,Electric,Automatic,Yes
+217,Honda,Hatchback,2008,50.03,Chicago,90909,Hybrid,Automatic,No
+218,Honda,SUV,2013,42.86,Miami,151899,Petrol,Automatic,No
+219,Toyota,Truck,2018,36.26,Los Angeles,33040,Hybrid,Automatic,Yes
+220,Toyota,Sedan,2006,80.94,Chicago,60354,Diesel,Automatic,No
+221,Ford,SUV,2015,50.92,Los Angeles,78543,Electric,Manual,No
+222,Toyota,Convertible,2015,60.9,Chicago,18157,Diesel,Automatic,No
+223,BMW,Convertible,2000,59.39,Miami,35315,Diesel,Automatic,Yes
+224,Honda,Hatchback,2003,66.18,Houston,35932,Diesel,Automatic,Yes
+225,Toyota,Hatchback,2003,89.25,Miami,152236,Electric,Manual,Yes
+226,Toyota,Convertible,2006,98.46,New York,145486,Hybrid,Manual,No
+227,Ford,Hatchback,2007,52.61,Chicago,145399,Diesel,Automatic,No
+228,Ford,Sedan,2016,86.2,New York,113880,Electric,Manual,Yes
+229,BMW,Hatchback,2004,81.16,New York,132018,Petrol,Manual,Yes
+230,Honda,Truck,2006,65.88,Los Angeles,14693,Electric,Manual,No
+231,Ford,Hatchback,2019,96.48,Chicago,27241,Petrol,Manual,No
+232,Toyota,SUV,2019,36.04,New York,115194,Electric,Manual,Yes
+233,Honda,Sedan,2003,28.74,Houston,95790,Hybrid,Manual,No
+234,Honda,SUV,2005,88.32,New York,146612,Diesel,Automatic,No
+235,Toyota,SUV,2006,55.13,Houston,72255,Hybrid,Manual,No
+236,Ford,Truck,2017,87.76,Los Angeles,195829,Electric,Manual,No
+237,Toyota,Sedan,2004,91.45,New York,172275,Diesel,Automatic,No
+238,Honda,Sedan,2019,25.0,Miami,156153,Petrol,Automatic,No
+239,Nissan,Sedan,2002,90.68,Los Angeles,192933,Electric,Automatic,No
+240,Nissan,Sedan,2006,55.87,Houston,11350,Diesel,Automatic,Yes
+241,BMW,Sedan,2021,60.83,Los Angeles,186584,Petrol,Manual,Yes
+242,Toyota,Truck,2013,70.13,New York,56809,Petrol,Manual,No
+243,Toyota,Hatchback,2006,94.11,Chicago,101894,Hybrid,Manual,No
+244,BMW,SUV,2004,21.53,Chicago,97557,Electric,Manual,No
+245,BMW,Sedan,2021,58.15,Houston,173904,Petrol,Automatic,Yes
+246,BMW,Hatchback,2004,75.02,Houston,159441,Diesel,Manual,Yes
+247,Honda,Hatchback,2022,77.82,Chicago,31728,Petrol,Manual,No
+248,Toyota,SUV,2001,75.4,Houston,17576,Petrol,Automatic,Yes
+249,Honda,Truck,2020,30.75,Los Angeles,160073,Hybrid,Manual,No
+250,BMW,Convertible,2021,43.95,Miami,83384,Hybrid,Manual,No
+251,Toyota,Convertible,2005,48.7,Miami,390,Diesel,Manual,No
+252,Honda,Hatchback,2014,84.35,Los Angeles,45436,Hybrid,Manual,No
+253,Honda,SUV,2020,42.3,Miami,11569,Petrol,Automatic,No
+254,BMW,Convertible,2009,36.86,New York,144101,Petrol,Automatic,No
+255,Toyota,Hatchback,2022,96.6,Los Angeles,22490,Hybrid,Automatic,No
+256,BMW,Truck,2006,20.71,Houston,45875,Petrol,Automatic,Yes
+257,Toyota,Convertible,2004,99.83,Los Angeles,5867,Petrol,Automatic,No
+258,Nissan,Hatchback,2000,74.15,Chicago,80820,Diesel,Manual,Yes
+259,Ford,Hatchback,2012,86.28,Houston,99515,Hybrid,Manual,No
+260,Ford,Sedan,2020,43.57,Chicago,9121,Petrol,Automatic,No
+261,Ford,Truck,2017,21.15,Houston,1539,Hybrid,Automatic,Yes
+262,BMW,Sedan,2012,79.03,Miami,148099,Diesel,Automatic,Yes
+263,Nissan,SUV,2020,86.73,Los Angeles,127402,Hybrid,Manual,No
+264,Toyota,Sedan,2020,79.24,New York,74229,Petrol,Automatic,Yes
+265,Honda,Sedan,2017,31.43,Houston,139993,Hybrid,Manual,No
+266,Toyota,Convertible,2004,80.27,Houston,50435,Petrol,Manual,No
+267,Honda,Hatchback,2012,81.51,Chicago,141382,Petrol,Manual,Yes
+268,Toyota,Truck,2003,72.68,Miami,63965,Petrol,Manual,Yes
+269,Nissan,Sedan,2016,81.29,Chicago,111048,Diesel,Automatic,Yes
+270,Honda,Truck,2002,87.67,Chicago,96444,Hybrid,Manual,Yes
+271,BMW,Sedan,2016,69.09,Miami,69922,Diesel,Manual,No
+272,Toyota,SUV,2010,27.09,New York,97799,Hybrid,Automatic,Yes
+273,Toyota,Sedan,2020,59.01,Chicago,93948,Diesel,Manual,Yes
+274,Honda,Convertible,2019,26.21,Chicago,143314,Electric,Manual,Yes
+275,BMW,Hatchback,2022,52.6,Houston,8947,Petrol,Manual,Yes
+276,BMW,SUV,2020,52.57,Miami,192888,Petrol,Automatic,Yes
+277,Nissan,Sedan,2003,25.28,Los Angeles,48785,Diesel,Manual,No
+278,BMW,Truck,2001,47.91,New York,119963,Electric,Manual,No
+279,BMW,SUV,2019,28.88,New York,507,Petrol,Automatic,Yes
+280,BMW,SUV,2015,84.66,Miami,198044,Hybrid,Automatic,Yes
+281,Ford,Sedan,2017,95.82,Houston,158223,Diesel,Manual,No
+282,Nissan,SUV,2007,25.79,Houston,11618,Petrol,Manual,Yes
+283,Toyota,Truck,2002,96.41,Miami,74286,Petrol,Automatic,No
+284,Honda,SUV,2008,61.81,Houston,16122,Diesel,Manual,No
+285,Toyota,Truck,2019,43.97,New York,138426,Diesel,Automatic,Yes
+286,Nissan,Sedan,2005,26.15,New York,109598,Hybrid,Manual,No
+287,Honda,Hatchback,2009,60.05,Los Angeles,162051,Hybrid,Automatic,Yes
+288,Nissan,SUV,2020,83.56,Miami,86436,Petrol,Manual,Yes
+289,BMW,Hatchback,2009,76.57,Chicago,183846,Petrol,Automatic,No
+290,Honda,Truck,2012,24.02,Chicago,136109,Diesel,Automatic,No
+291,BMW,SUV,2016,25.83,Los Angeles,28633,Petrol,Automatic,Yes
+292,Toyota,Convertible,2008,52.23,Los Angeles,24495,Petrol,Automatic,No
+293,Toyota,Hatchback,2016,43.62,Houston,64550,Diesel,Automatic,Yes
+294,Honda,SUV,2008,38.59,Los Angeles,36483,Petrol,Manual,No
+295,Honda,Hatchback,2008,42.48,Los Angeles,113181,Petrol,Manual,No
+296,Nissan,SUV,2000,84.28,Chicago,34069,Electric,Automatic,Yes
+297,Nissan,Sedan,2001,94.34,Houston,138442,Hybrid,Manual,Yes
+298,BMW,Hatchback,2015,52.41,Los Angeles,119873,Diesel,Manual,Yes
+299,Honda,Convertible,2000,92.49,Los Angeles,116843,Electric,Manual,No
+300,Toyota,Convertible,2009,45.72,Houston,71947,Hybrid,Manual,Yes
+301,Nissan,Truck,2017,58.11,Miami,170205,Hybrid,Manual,Yes
+302,Nissan,SUV,2007,38.08,Houston,95761,Hybrid,Manual,No
+303,Toyota,Hatchback,2020,71.24,Chicago,113753,Electric,Automatic,No
+304,Nissan,Truck,2010,98.32,Miami,131764,Electric,Manual,Yes
+305,BMW,Hatchback,2022,68.28,New York,28926,Hybrid,Manual,Yes
+306,Honda,SUV,2001,48.63,Houston,99782,Petrol,Manual,Yes
+307,Toyota,Convertible,2007,71.83,Chicago,104700,Petrol,Automatic,Yes
+308,Honda,Sedan,2021,29.83,Miami,73984,Electric,Manual,No
+309,Nissan,Convertible,2007,91.09,Houston,174462,Electric,Manual,No
+310,Nissan,Truck,2016,60.25,Los Angeles,49593,Electric,Manual,Yes
+311,Toyota,Sedan,2014,55.95,Houston,75609,Hybrid,Automatic,Yes
+312,BMW,Truck,2016,66.87,New York,5209,Petrol,Manual,Yes
+313,Ford,SUV,2022,69.98,Houston,126700,Electric,Automatic,No
+314,Toyota,Sedan,2012,25.74,Miami,137605,Electric,Manual,Yes
+315,Ford,Truck,2018,74.61,Miami,86597,Diesel,Automatic,Yes
+316,Ford,SUV,2004,39.35,Houston,7211,Hybrid,Automatic,No
+317,BMW,Convertible,2011,77.12,Miami,9927,Diesel,Automatic,No
+318,Ford,SUV,2000,85.8,Los Angeles,117333,Petrol,Manual,Yes
+319,Ford,Hatchback,2022,84.32,Houston,155666,Diesel,Automatic,Yes
+320,BMW,SUV,2004,64.2,Los Angeles,76382,Diesel,Automatic,No
+321,Ford,SUV,2007,61.61,Los Angeles,139005,Diesel,Automatic,Yes
+322,Ford,Hatchback,2012,31.43,Chicago,103780,Hybrid,Automatic,Yes
+323,Ford,Truck,2007,82.03,Houston,40696,Petrol,Manual,No
+324,Toyota,Truck,2022,41.71,Miami,196521,Diesel,Manual,No
+325,Toyota,SUV,2010,59.74,Los Angeles,67616,Hybrid,Manual,No
+326,Toyota,Hatchback,2000,42.74,Chicago,137161,Petrol,Manual,Yes
+327,BMW,Hatchback,2012,30.71,Houston,187620,Electric,Automatic,No
+328,Nissan,Convertible,2018,70.36,Houston,157195,Diesel,Manual,No
+329,Ford,Truck,2002,24.35,New York,138869,Petrol,Automatic,Yes
+330,Ford,Sedan,2016,79.89,New York,50013,Diesel,Manual,Yes
+331,BMW,Truck,2004,45.41,Los Angeles,139418,Electric,Manual,No
+332,Ford,Truck,2019,20.01,New York,164744,Petrol,Manual,No
+333,Toyota,Convertible,2020,60.89,Los Angeles,148725,Hybrid,Automatic,Yes
+334,Nissan,Sedan,2007,23.75,Miami,49556,Petrol,Manual,Yes
+335,Honda,Convertible,2013,42.09,Los Angeles,123723,Hybrid,Manual,No
+336,Ford,Sedan,2003,76.56,New York,26140,Petrol,Manual,No
+337,Toyota,SUV,2010,25.02,Miami,1184,Hybrid,Automatic,Yes
+338,Honda,Sedan,2019,87.15,New York,165565,Electric,Manual,No
+339,Nissan,Convertible,2014,20.31,Los Angeles,175220,Electric,Manual,Yes
+340,Honda,Truck,2018,39.75,Chicago,155918,Electric,Automatic,No
+341,Toyota,Sedan,2006,79.27,Houston,111361,Petrol,Automatic,Yes
+342,Honda,Sedan,2018,45.3,New York,153267,Electric,Manual,Yes
+343,BMW,Hatchback,2018,28.15,Los Angeles,5606,Diesel,Manual,No
+344,Honda,Truck,2010,48.82,Miami,135028,Electric,Manual,No
+345,Ford,SUV,2004,41.63,New York,16555,Hybrid,Automatic,Yes
+346,Ford,Convertible,2004,87.42,New York,90385,Hybrid,Automatic,No
+347,BMW,SUV,2021,45.07,Houston,149762,Hybrid,Automatic,No
+348,Toyota,Truck,2007,83.11,Los Angeles,58502,Petrol,Manual,No
+349,Ford,Sedan,2009,91.35,Chicago,179921,Diesel,Automatic,Yes
+350,Nissan,Sedan,2005,54.71,Miami,157419,Electric,Manual,No
+351,Ford,Truck,2014,92.8,Los Angeles,103844,Diesel,Automatic,No
+352,Ford,Sedan,2015,50.19,Miami,91321,Diesel,Automatic,Yes
+353,Toyota,Sedan,2016,97.13,New York,49056,Hybrid,Automatic,No
+354,Honda,Sedan,2007,27.14,Houston,194923,Hybrid,Manual,No
+355,Ford,Convertible,2007,74.96,Houston,98234,Hybrid,Manual,Yes
+356,BMW,Convertible,2008,59.51,Chicago,41850,Petrol,Manual,Yes
+357,Honda,Hatchback,2001,51.01,Houston,27843,Diesel,Manual,No
+358,Nissan,SUV,2014,70.62,New York,62320,Diesel,Automatic,No
+359,Toyota,Truck,2017,76.31,Chicago,29793,Petrol,Manual,Yes
+360,Nissan,Truck,2002,20.35,Los Angeles,170588,Petrol,Automatic,Yes
+361,Honda,Truck,2016,33.36,Houston,148929,Petrol,Manual,No
+362,Honda,Hatchback,2003,77.04,Chicago,19627,Diesel,Manual,No
+363,Honda,Convertible,2003,73.31,New York,61822,Diesel,Automatic,No
+364,Nissan,Hatchback,2013,97.28,Miami,183320,Hybrid,Automatic,Yes
+365,Honda,Truck,2008,80.88,Miami,55798,Hybrid,Manual,No
+366,Nissan,SUV,2008,96.06,New York,175188,Diesel,Manual,Yes
+367,Honda,Sedan,2022,76.2,New York,75318,Hybrid,Automatic,Yes
+368,BMW,Convertible,2017,43.84,Miami,104186,Petrol,Automatic,Yes
+369,Honda,Convertible,2009,28.43,Chicago,87902,Electric,Automatic,No
+370,Nissan,Hatchback,2020,82.55,Miami,159629,Hybrid,Automatic,No
+371,Ford,Convertible,2003,71.53,New York,71334,Diesel,Automatic,No
+372,Honda,Truck,2011,23.85,Houston,106719,Hybrid,Manual,Yes
+373,Ford,Truck,2007,48.8,Los Angeles,123099,Hybrid,Manual,No
+374,BMW,Hatchback,2001,96.54,Houston,173686,Hybrid,Manual,Yes
+375,Toyota,Truck,2021,60.03,Houston,12720,Electric,Manual,Yes
+376,BMW,SUV,2012,54.62,New York,57608,Petrol,Automatic,Yes
+377,Honda,Hatchback,2020,56.62,Miami,107449,Diesel,Automatic,Yes
+378,Ford,SUV,2015,36.71,Chicago,102828,Electric,Automatic,Yes
+379,Ford,Sedan,2001,49.5,Houston,126613,Diesel,Manual,Yes
+380,Nissan,SUV,2010,49.59,Miami,72095,Diesel,Automatic,No
+381,Ford,Sedan,2009,24.19,Chicago,105924,Diesel,Automatic,Yes
+382,Nissan,Sedan,2014,81.41,Houston,96452,Electric,Manual,No
+383,Toyota,SUV,2016,53.32,Chicago,87593,Petrol,Manual,Yes
+384,Honda,Hatchback,2007,85.77,Miami,166964,Diesel,Manual,No
+385,Nissan,Truck,2017,88.03,Los Angeles,106975,Petrol,Automatic,No
+386,Toyota,Truck,2022,36.96,Miami,77242,Petrol,Automatic,No
+387,Ford,Sedan,2008,72.59,New York,116041,Hybrid,Manual,No
+388,Ford,Sedan,2007,57.78,Chicago,126202,Electric,Manual,Yes
+389,Toyota,Hatchback,2013,90.41,Los Angeles,77606,Electric,Automatic,Yes
+390,Ford,Convertible,2017,37.26,Chicago,123769,Hybrid,Manual,Yes
+391,Toyota,SUV,2021,74.23,Chicago,118542,Hybrid,Automatic,Yes
+392,Nissan,Sedan,2019,68.62,Houston,106438,Petrol,Manual,No
+393,Nissan,Truck,2019,43.62,New York,924,Diesel,Manual,No
+394,Toyota,Hatchback,2020,30.93,Chicago,51322,Electric,Manual,No
+395,Nissan,SUV,2011,72.13,Miami,157550,Diesel,Automatic,Yes
+396,Nissan,Hatchback,2018,79.09,Miami,71042,Diesel,Automatic,No
+397,Nissan,SUV,2013,45.25,Houston,46418,Hybrid,Manual,Yes
+398,BMW,SUV,2016,71.59,New York,193289,Diesel,Automatic,No
+399,Honda,Sedan,2020,51.61,New York,100699,Petrol,Manual,No
+400,Ford,Hatchback,2002,77.06,Miami,90140,Hybrid,Manual,No
+401,BMW,Hatchback,2022,35.94,Los Angeles,11781,Diesel,Automatic,No
+402,Nissan,Truck,2006,91.22,Houston,136587,Hybrid,Automatic,No
+403,Toyota,Truck,2016,42.99,Houston,117358,Petrol,Automatic,Yes
+404,Nissan,Sedan,2011,49.42,Miami,36133,Petrol,Automatic,No
+405,Honda,Sedan,2008,24.65,Miami,97628,Diesel,Manual,Yes
+406,Nissan,Convertible,2014,28.92,Los Angeles,76946,Hybrid,Automatic,Yes
+407,Toyota,Truck,2017,61.27,Los Angeles,85058,Diesel,Automatic,Yes
+408,Honda,SUV,2020,41.41,New York,140167,Diesel,Manual,Yes
+409,Nissan,Hatchback,2012,86.84,Houston,151542,Hybrid,Manual,Yes
+410,Honda,Sedan,2020,21.18,Houston,43129,Diesel,Manual,Yes
+411,Ford,Hatchback,2007,50.33,Miami,8531,Petrol,Manual,Yes
+412,Ford,Hatchback,2013,46.99,New York,37038,Hybrid,Automatic,Yes
+413,Nissan,Convertible,2007,21.55,Houston,87939,Hybrid,Automatic,No
+414,Honda,Truck,2013,29.95,New York,42674,Hybrid,Manual,No
+415,Toyota,Sedan,2006,53.09,New York,127572,Hybrid,Manual,Yes
+416,Nissan,Hatchback,2022,59.43,Miami,29831,Diesel,Automatic,Yes
+417,Ford,Sedan,2011,52.34,New York,57174,Diesel,Automatic,Yes
+418,Ford,SUV,2010,62.48,Los Angeles,11279,Petrol,Automatic,No
+419,Nissan,Convertible,2021,67.61,Los Angeles,169292,Electric,Automatic,No
+420,Honda,SUV,2021,20.79,Chicago,60610,Electric,Automatic,Yes
+421,Ford,Sedan,2010,57.13,Miami,183791,Petrol,Manual,Yes
+422,Honda,Sedan,2021,97.08,Chicago,53051,Electric,Manual,No
+423,Ford,Truck,2012,61.52,Los Angeles,56652,Petrol,Manual,No
+424,Ford,Hatchback,2017,74.2,Chicago,65524,Diesel,Manual,Yes
+425,BMW,Hatchback,2001,44.95,Miami,6470,Hybrid,Automatic,Yes
+426,Ford,SUV,2020,81.92,Miami,198670,Hybrid,Manual,Yes
+427,Toyota,Convertible,2014,81.83,New York,172870,Diesel,Automatic,Yes
+428,Nissan,Hatchback,2019,61.7,Houston,53473,Hybrid,Automatic,No
+429,Nissan,Truck,2017,98.08,New York,150952,Hybrid,Automatic,No
+430,Honda,SUV,2014,30.04,Miami,44439,Electric,Automatic,Yes
+431,Ford,SUV,2018,21.36,Los Angeles,14308,Diesel,Automatic,Yes
+432,Toyota,Truck,2022,81.61,Los Angeles,91563,Electric,Automatic,Yes
+433,Honda,Convertible,2011,84.57,New York,35081,Electric,Automatic,No
+434,BMW,Truck,2012,29.62,Miami,181455,Hybrid,Manual,Yes
+435,Honda,Convertible,2021,41.25,Los Angeles,9837,Hybrid,Automatic,Yes
+436,Honda,Truck,2010,21.4,Miami,183223,Diesel,Manual,Yes
+437,Ford,Truck,2004,43.46,Los Angeles,118128,Hybrid,Manual,No
+438,BMW,Sedan,2000,81.85,Miami,167896,Hybrid,Automatic,Yes
+439,Honda,SUV,2002,61.44,Chicago,164145,Diesel,Automatic,No
+440,Toyota,Truck,2021,47.85,Miami,112651,Hybrid,Manual,Yes
+441,Toyota,Truck,2018,49.74,Miami,97624,Electric,Manual,Yes
+442,Nissan,Hatchback,2022,20.11,New York,157371,Diesel,Manual,Yes
+443,BMW,SUV,2006,43.98,Chicago,189933,Hybrid,Manual,No
+444,BMW,Hatchback,2011,71.72,Houston,30063,Petrol,Automatic,Yes
+445,Nissan,SUV,2014,97.94,New York,69453,Diesel,Automatic,Yes
+446,Honda,Hatchback,2004,87.76,Houston,199544,Diesel,Automatic,No
+447,BMW,Truck,2014,21.89,Los Angeles,102166,Petrol,Manual,No
+448,Toyota,Truck,2007,91.88,Houston,14506,Hybrid,Automatic,No
+449,Toyota,Sedan,2009,82.66,Miami,113604,Hybrid,Manual,Yes
+450,Ford,Hatchback,2015,82.43,Houston,26026,Diesel,Automatic,No
+451,BMW,Convertible,2007,56.64,New York,158744,Diesel,Manual,Yes
+452,Honda,Sedan,2000,51.84,New York,169489,Hybrid,Automatic,No
+453,Nissan,Hatchback,2011,44.23,Houston,52413,Hybrid,Automatic,No
+454,Nissan,Hatchback,2004,25.26,New York,65066,Electric,Manual,No
+455,Honda,Sedan,2002,38.26,New York,190285,Diesel,Manual,Yes
+456,Ford,Truck,2000,39.73,Houston,50971,Diesel,Manual,Yes
+457,Nissan,Hatchback,2003,58.73,Chicago,158353,Petrol,Manual,Yes
+458,BMW,Truck,2007,79.8,Chicago,113978,Electric,Manual,Yes
+459,Ford,Sedan,2002,57.9,Los Angeles,159163,Hybrid,Automatic,Yes
+460,BMW,Truck,2009,24.63,New York,50494,Electric,Manual,Yes
+461,Toyota,SUV,2001,96.62,Houston,103864,Hybrid,Automatic,Yes
+462,Ford,Convertible,2010,95.42,New York,149682,Hybrid,Automatic,Yes
+463,Nissan,Hatchback,2009,82.82,Miami,132151,Electric,Automatic,Yes
+464,Ford,Convertible,2020,99.31,New York,95386,Diesel,Automatic,No
+465,Ford,Truck,2013,63.56,New York,177823,Hybrid,Automatic,No
+466,Ford,Hatchback,2006,97.02,Chicago,86126,Electric,Manual,Yes
+467,Ford,Truck,2001,26.05,Houston,186504,Petrol,Manual,Yes
+468,BMW,SUV,2008,49.25,New York,162023,Electric,Automatic,Yes
+469,Toyota,Sedan,2015,38.03,Chicago,80863,Petrol,Automatic,Yes
+470,Honda,Hatchback,2012,35.67,Los Angeles,78291,Hybrid,Manual,No
+471,Ford,SUV,2008,31.26,Chicago,125659,Electric,Manual,No
+472,Nissan,SUV,2019,69.79,Chicago,190944,Electric,Automatic,Yes
+473,Ford,Hatchback,2003,82.51,Chicago,7235,Petrol,Manual,No
+474,Nissan,Truck,2021,66.26,New York,82733,Electric,Manual,No
+475,BMW,SUV,2009,31.76,New York,62712,Electric,Manual,Yes
+476,Nissan,Convertible,2021,84.89,Los Angeles,152545,Hybrid,Automatic,Yes
+477,Honda,SUV,2011,70.88,Miami,198639,Electric,Manual,Yes
+478,Toyota,Truck,2016,51.05,Miami,125849,Diesel,Automatic,Yes
+479,Nissan,Truck,2013,73.93,Miami,79823,Petrol,Automatic,No
+480,Nissan,Convertible,2013,40.79,Los Angeles,104215,Electric,Automatic,Yes
+481,Toyota,SUV,2001,47.62,Miami,32230,Petrol,Automatic,No
+482,Honda,Truck,2020,93.4,Miami,84573,Petrol,Automatic,Yes
+483,Ford,Hatchback,2019,43.24,Chicago,199948,Petrol,Manual,No
+484,Nissan,Sedan,2010,57.6,New York,40644,Electric,Automatic,Yes
+485,Toyota,Sedan,2015,91.21,New York,179736,Electric,Automatic,Yes
+486,BMW,Sedan,2018,76.62,Chicago,45203,Petrol,Automatic,No
+487,Toyota,SUV,2022,24.98,Chicago,66677,Diesel,Manual,No
+488,BMW,Convertible,2005,31.78,Chicago,156497,Petrol,Manual,No
+489,Honda,Truck,2018,20.63,New York,123246,Diesel,Manual,Yes
+490,Ford,Hatchback,2004,70.47,Miami,84817,Petrol,Manual,No
+491,Toyota,Hatchback,2003,55.81,Chicago,69806,Hybrid,Manual,No
+492,Nissan,SUV,2014,30.74,Los Angeles,42814,Petrol,Manual,No
+493,Honda,Sedan,2003,96.63,Chicago,70219,Petrol,Manual,No
+494,Toyota,SUV,2019,62.37,Houston,180718,Electric,Automatic,No
+495,Nissan,Convertible,2009,39.35,Chicago,170956,Diesel,Automatic,No
+496,Toyota,Convertible,2021,60.05,New York,95345,Hybrid,Manual,No
+497,BMW,Truck,2002,74.37,Chicago,100088,Diesel,Automatic,No
+498,Toyota,Truck,2004,26.1,Houston,69322,Hybrid,Automatic,No
+499,Toyota,Convertible,2005,41.98,Los Angeles,21650,Petrol,Manual,Yes
+500,Toyota,Convertible,2020,84.56,Miami,94242,Electric,Automatic,Yes
+501,Honda,Convertible,2021,56.77,Chicago,140262,Electric,Automatic,No
+502,Toyota,SUV,2007,63.73,Houston,38196,Diesel,Manual,Yes
+503,Nissan,Convertible,2006,54.63,Houston,170521,Electric,Automatic,Yes
+504,BMW,Hatchback,2020,23.51,Los Angeles,170733,Diesel,Manual,No
+505,BMW,Sedan,2009,33.26,New York,29709,Diesel,Manual,No
+506,Toyota,Convertible,2005,55.64,Chicago,80428,Hybrid,Automatic,No
+507,Honda,Sedan,2013,36.73,Houston,9943,Diesel,Automatic,No
+508,Honda,SUV,2003,24.0,Los Angeles,174312,Hybrid,Automatic,No
+509,Nissan,Sedan,2012,87.49,Miami,176832,Electric,Manual,No
+510,Toyota,SUV,2019,98.5,Houston,21042,Diesel,Manual,Yes
+511,BMW,Hatchback,2016,83.45,Los Angeles,43894,Diesel,Manual,No
+512,Honda,SUV,2022,88.3,New York,137941,Petrol,Automatic,Yes
+513,Toyota,SUV,2006,39.36,New York,192150,Diesel,Automatic,No
+514,Honda,Truck,2003,96.85,Houston,56759,Diesel,Manual,No
+515,Honda,Convertible,2013,35.75,Houston,105973,Petrol,Automatic,Yes
+516,BMW,Convertible,2002,96.11,Chicago,44306,Petrol,Automatic,No
+517,Ford,Hatchback,2004,99.59,Los Angeles,108369,Electric,Manual,No
+518,Nissan,Hatchback,2015,76.94,Houston,186443,Diesel,Manual,Yes
+519,Nissan,Convertible,2022,98.49,Chicago,151990,Electric,Automatic,No
+520,BMW,Truck,2019,65.56,Chicago,28379,Electric,Manual,Yes
+521,Honda,Convertible,2003,40.76,Houston,120667,Petrol,Automatic,No
+522,Toyota,Truck,2001,54.96,New York,134034,Hybrid,Manual,No
+523,Honda,Hatchback,2017,67.48,Los Angeles,144923,Electric,Manual,Yes
+524,BMW,Sedan,2018,25.85,Los Angeles,117626,Hybrid,Manual,No
+525,Nissan,Hatchback,2018,69.79,New York,176819,Diesel,Automatic,Yes
+526,Honda,Hatchback,2016,98.49,Houston,125180,Petrol,Automatic,Yes
+527,Nissan,SUV,2013,35.21,Los Angeles,52349,Diesel,Manual,Yes
+528,Toyota,SUV,2018,83.41,Houston,187428,Diesel,Manual,No
+529,Nissan,SUV,2021,92.63,Houston,145817,Petrol,Manual,No
+530,Nissan,SUV,2012,95.5,Chicago,5730,Diesel,Automatic,Yes
+531,Ford,Truck,2011,96.81,New York,144993,Petrol,Manual,No
+532,Ford,Convertible,2005,61.72,Houston,19023,Hybrid,Manual,No
+533,Ford,Sedan,2020,98.18,Miami,176421,Diesel,Manual,No
+534,Nissan,Hatchback,2003,80.58,New York,126796,Petrol,Manual,Yes
+535,BMW,Truck,2018,32.93,Los Angeles,81533,Electric,Automatic,No
+536,Nissan,Sedan,2015,58.15,Chicago,83286,Diesel,Automatic,Yes
+537,BMW,Truck,2012,77.47,Los Angeles,41979,Hybrid,Manual,No
+538,BMW,Truck,2003,39.79,Los Angeles,22837,Petrol,Automatic,No
+539,Ford,Hatchback,2022,71.25,New York,146069,Diesel,Automatic,Yes
+540,Honda,Convertible,2016,73.33,Los Angeles,104975,Diesel,Automatic,No
+541,Toyota,SUV,2022,33.02,Houston,176111,Diesel,Manual,Yes
+542,Ford,Convertible,2000,65.21,Los Angeles,20923,Hybrid,Automatic,No
+543,Ford,Hatchback,2017,81.73,Chicago,8876,Petrol,Automatic,Yes
+544,Honda,Hatchback,2019,59.91,Chicago,60973,Electric,Automatic,No
+545,Toyota,Hatchback,2016,20.97,Miami,133959,Electric,Manual,No
+546,Nissan,Sedan,2014,20.72,Chicago,194795,Electric,Manual,No
+547,Nissan,Convertible,2010,48.56,Los Angeles,42422,Petrol,Automatic,Yes
+548,Ford,Convertible,2021,94.1,Chicago,51413,Electric,Automatic,Yes
+549,Toyota,Truck,2012,38.29,New York,102484,Hybrid,Manual,Yes
+550,Ford,Truck,2000,70.75,Chicago,133913,Petrol,Manual,No
+551,BMW,Truck,2016,37.77,Houston,28756,Diesel,Automatic,Yes
+552,Ford,Hatchback,2005,45.73,New York,71576,Hybrid,Automatic,Yes
+553,Ford,Convertible,2003,87.84,Miami,118248,Diesel,Manual,Yes
+554,Nissan,Hatchback,2019,78.31,Houston,10304,Electric,Manual,Yes
+555,Nissan,Sedan,2015,27.63,Los Angeles,30341,Hybrid,Automatic,Yes
+556,Nissan,Truck,2014,54.3,Los Angeles,135830,Petrol,Manual,Yes
+557,BMW,Hatchback,2014,22.33,Los Angeles,148082,Hybrid,Automatic,Yes
+558,Nissan,Hatchback,2005,58.47,Houston,127039,Diesel,Automatic,Yes
+559,Toyota,Sedan,2014,72.99,Houston,191830,Petrol,Automatic,Yes
+560,Honda,SUV,2013,29.48,Houston,162730,Hybrid,Manual,Yes
+561,Toyota,Convertible,2010,43.11,New York,180074,Hybrid,Automatic,No
+562,Toyota,SUV,2006,51.83,New York,132447,Hybrid,Automatic,No
+563,Nissan,Truck,2008,93.56,Los Angeles,99485,Hybrid,Manual,Yes
+564,Honda,Hatchback,2015,99.46,Chicago,22092,Petrol,Manual,No
+565,Honda,Sedan,2004,23.59,Los Angeles,131562,Diesel,Automatic,No
+566,Honda,Sedan,2019,80.88,Miami,3729,Hybrid,Automatic,Yes
+567,BMW,Convertible,2009,49.74,New York,137046,Petrol,Manual,Yes
+568,Nissan,SUV,2017,51.4,Houston,118222,Diesel,Manual,Yes
+569,Honda,Convertible,2002,80.34,New York,85216,Hybrid,Manual,No
+570,BMW,Hatchback,2012,93.47,Houston,83860,Diesel,Automatic,Yes
+571,Ford,Convertible,2010,96.07,Miami,96870,Diesel,Automatic,No
+572,Ford,Sedan,2016,66.17,Miami,21398,Petrol,Automatic,Yes
+573,BMW,Sedan,2021,48.57,New York,34650,Diesel,Manual,No
+574,BMW,Truck,2012,83.0,Houston,152364,Petrol,Automatic,No
+575,Nissan,Truck,2005,40.08,Miami,103889,Hybrid,Manual,Yes
+576,Nissan,Hatchback,2016,65.13,Los Angeles,3159,Diesel,Automatic,Yes
+577,Ford,SUV,2012,48.69,Los Angeles,98162,Diesel,Manual,No
+578,Honda,Convertible,2018,72.53,Houston,193838,Electric,Automatic,No
+579,Ford,Hatchback,2020,39.23,New York,102834,Hybrid,Automatic,Yes
+580,Honda,Truck,2018,35.33,Miami,148137,Hybrid,Manual,Yes
+581,Honda,Convertible,2009,93.46,New York,21638,Electric,Manual,No
+582,Nissan,Truck,2002,28.14,Los Angeles,1073,Electric,Automatic,Yes
+583,Toyota,Convertible,2013,60.48,Miami,177583,Petrol,Manual,No
+584,Toyota,SUV,2018,37.67,New York,29320,Petrol,Manual,Yes
+585,BMW,Hatchback,2004,23.11,Chicago,34924,Diesel,Automatic,Yes
+586,Nissan,Convertible,2004,22.88,Houston,171806,Diesel,Manual,Yes
+587,Honda,Sedan,2019,34.02,Houston,68116,Diesel,Automatic,No
+588,Toyota,Sedan,2016,89.34,Chicago,171097,Diesel,Automatic,Yes
+589,Honda,Convertible,2020,42.6,Los Angeles,2159,Petrol,Manual,No
+590,Toyota,Convertible,2009,96.04,Miami,48940,Hybrid,Manual,Yes
+591,Toyota,Convertible,2004,66.53,Houston,79436,Diesel,Automatic,No
+592,Toyota,Sedan,2003,54.93,Chicago,14678,Hybrid,Automatic,No
+593,Nissan,Sedan,2005,66.41,Chicago,192147,Diesel,Automatic,Yes
+594,Ford,Convertible,2003,61.34,Los Angeles,178276,Electric,Automatic,No
+595,Honda,Truck,2006,80.7,Los Angeles,143093,Diesel,Automatic,No
+596,Nissan,Truck,2006,42.6,New York,137844,Diesel,Automatic,No
+597,Nissan,SUV,2017,48.24,Houston,67163,Diesel,Manual,No
+598,Nissan,Hatchback,2002,91.53,New York,154536,Petrol,Manual,Yes
+599,Nissan,Truck,2000,95.72,Chicago,51137,Electric,Manual,Yes
+600,Nissan,Sedan,2003,91.4,Miami,161304,Diesel,Automatic,Yes
+601,BMW,Truck,2005,53.56,Miami,61497,Diesel,Manual,No
+602,Honda,SUV,2008,82.43,Los Angeles,100485,Hybrid,Automatic,No
+603,Nissan,SUV,2021,58.11,Miami,182520,Electric,Automatic,Yes
+604,Honda,Hatchback,2013,59.8,Miami,105468,Diesel,Manual,Yes
+605,BMW,Truck,2011,36.37,Miami,901,Hybrid,Automatic,No
+606,BMW,Sedan,2019,67.29,Chicago,87980,Hybrid,Automatic,Yes
+607,Honda,Sedan,2003,34.89,Miami,107594,Petrol,Automatic,Yes
+608,Toyota,Convertible,2020,46.53,Miami,2881,Hybrid,Automatic,No
+609,Ford,Sedan,2011,88.4,Miami,29863,Diesel,Automatic,Yes
+610,Toyota,Hatchback,2009,36.57,New York,136694,Petrol,Automatic,No
+611,Toyota,Hatchback,2021,25.69,Chicago,132450,Petrol,Manual,Yes
+612,Toyota,Sedan,2006,25.52,Los Angeles,45201,Diesel,Automatic,No
+613,Nissan,Sedan,2002,95.26,New York,59251,Electric,Automatic,No
+614,BMW,Convertible,2022,60.55,Houston,72572,Hybrid,Automatic,No
+615,Toyota,Sedan,2013,52.75,Chicago,39255,Petrol,Automatic,No
+616,BMW,Convertible,2009,84.87,Chicago,63212,Electric,Manual,No
+617,Honda,Convertible,2015,86.87,Houston,50210,Diesel,Manual,Yes
+618,Ford,Sedan,2015,46.58,Houston,125629,Hybrid,Automatic,Yes
+619,Honda,SUV,2021,75.49,Houston,22499,Hybrid,Automatic,Yes
+620,Honda,SUV,2009,81.69,Los Angeles,102552,Petrol,Automatic,No
+621,Nissan,Convertible,2012,72.37,Miami,182700,Hybrid,Manual,Yes
+622,Ford,Sedan,2005,32.13,Chicago,61360,Hybrid,Manual,No
+623,Honda,SUV,2011,90.07,Miami,135675,Hybrid,Manual,No
+624,Honda,Sedan,2008,63.13,Miami,127466,Hybrid,Manual,Yes
+625,Ford,Sedan,2012,42.6,Houston,85473,Diesel,Automatic,No
+626,Ford,Sedan,2003,54.02,Los Angeles,143704,Electric,Manual,Yes
+627,Honda,Truck,2010,23.01,New York,161679,Diesel,Manual,No
+628,Ford,Sedan,2019,30.23,Los Angeles,91873,Diesel,Automatic,No
+629,Honda,Truck,2017,81.24,Miami,65756,Petrol,Automatic,Yes
+630,Honda,Convertible,2010,20.0,Los Angeles,178066,Hybrid,Manual,No
+631,Nissan,SUV,2020,53.33,Houston,194454,Diesel,Manual,Yes
+632,Toyota,SUV,2003,61.8,New York,56344,Hybrid,Manual,No
+633,Honda,SUV,2017,24.37,Houston,184847,Diesel,Manual,Yes
+634,BMW,SUV,2000,97.85,New York,138421,Diesel,Automatic,No
+635,Toyota,SUV,2006,38.09,Miami,71154,Petrol,Automatic,Yes
+636,Toyota,SUV,2005,44.34,New York,27464,Electric,Manual,Yes
+637,Toyota,SUV,2014,44.32,New York,173696,Electric,Manual,No
+638,Nissan,Convertible,2017,38.43,New York,121897,Diesel,Manual,Yes
+639,Honda,Sedan,2010,20.12,Los Angeles,37344,Petrol,Manual,No
+640,Nissan,Hatchback,2019,78.35,Los Angeles,83791,Hybrid,Manual,No
+641,Honda,Truck,2014,97.35,Miami,155371,Hybrid,Automatic,Yes
+642,Nissan,Hatchback,2015,37.94,New York,179047,Diesel,Automatic,Yes
+643,Nissan,Hatchback,2006,73.04,Chicago,132534,Electric,Automatic,Yes
+644,BMW,Sedan,2020,79.35,Miami,120209,Petrol,Manual,Yes
+645,Nissan,Sedan,2009,87.87,New York,81441,Electric,Manual,Yes
+646,Ford,Sedan,2011,53.81,New York,90456,Hybrid,Automatic,No
+647,BMW,SUV,2013,44.23,Los Angeles,81788,Electric,Automatic,Yes
+648,Nissan,Convertible,2004,46.02,Miami,171653,Hybrid,Manual,No
+649,Toyota,SUV,2020,77.01,New York,14175,Petrol,Automatic,Yes
+650,Ford,Convertible,2017,85.34,New York,137263,Petrol,Manual,Yes
+651,Ford,Convertible,2004,34.53,Miami,83434,Diesel,Manual,Yes
+652,Ford,Hatchback,2002,49.68,Chicago,84518,Diesel,Automatic,No
+653,BMW,Hatchback,2022,92.16,Miami,66537,Electric,Automatic,Yes
+654,Nissan,Convertible,2004,84.54,Miami,115721,Petrol,Automatic,No
+655,Nissan,Convertible,2016,98.79,Chicago,47645,Petrol,Manual,No
+656,Toyota,SUV,2018,80.34,Miami,23283,Diesel,Manual,No
+657,Toyota,SUV,2018,51.46,New York,86971,Hybrid,Automatic,Yes
+658,Ford,Hatchback,2020,67.25,Miami,92759,Electric,Manual,No
+659,Toyota,Sedan,2011,72.88,Chicago,190195,Electric,Manual,Yes
+660,BMW,Convertible,2008,26.28,Houston,102780,Diesel,Manual,No
+661,Nissan,SUV,2000,63.56,Miami,161096,Petrol,Automatic,Yes
+662,Ford,Hatchback,2017,76.75,Los Angeles,180702,Diesel,Manual,No
+663,Toyota,SUV,2020,33.39,New York,30734,Diesel,Automatic,Yes
+664,BMW,Convertible,2003,82.45,New York,515,Diesel,Automatic,Yes
+665,BMW,Convertible,2009,66.7,Los Angeles,110782,Diesel,Manual,Yes
+666,Toyota,Truck,2006,96.18,Los Angeles,66727,Hybrid,Automatic,No
+667,Nissan,Sedan,2021,23.39,Miami,109164,Hybrid,Manual,No
+668,Toyota,Truck,2022,41.23,Los Angeles,46216,Petrol,Automatic,Yes
+669,Ford,Hatchback,2000,68.12,Houston,71833,Diesel,Automatic,No
+670,Toyota,SUV,2016,43.72,Chicago,58755,Hybrid,Manual,No
+671,BMW,Hatchback,2001,77.15,Los Angeles,27856,Petrol,Automatic,No
+672,Toyota,Convertible,2010,80.72,Los Angeles,73870,Diesel,Automatic,No
+673,Nissan,Truck,2008,28.2,Houston,155234,Electric,Automatic,No
+674,Honda,Truck,2006,61.11,New York,137080,Hybrid,Manual,No
+675,Toyota,Truck,2021,60.71,New York,7987,Petrol,Manual,No
+676,Nissan,Hatchback,2016,49.54,Miami,193604,Electric,Automatic,Yes
+677,Nissan,Convertible,2016,94.63,Houston,96502,Diesel,Automatic,Yes
+678,BMW,SUV,2001,86.2,Chicago,134404,Diesel,Automatic,No
+679,Nissan,SUV,2005,75.78,Chicago,66323,Diesel,Manual,Yes
+680,Nissan,Hatchback,2013,77.15,Houston,170062,Hybrid,Manual,Yes
+681,Nissan,Truck,2005,56.94,Chicago,9873,Petrol,Automatic,Yes
+682,Nissan,Sedan,2001,93.68,New York,167516,Electric,Manual,No
+683,Ford,Hatchback,2000,75.57,Chicago,166412,Petrol,Manual,No
+684,Ford,Hatchback,2009,78.32,Chicago,105219,Hybrid,Manual,No
+685,BMW,Convertible,2020,88.94,Houston,5033,Petrol,Manual,No
+686,Toyota,SUV,2004,41.93,Houston,73324,Hybrid,Automatic,No
+687,Nissan,Hatchback,2001,84.57,Chicago,15689,Diesel,Manual,Yes
+688,Toyota,Hatchback,2021,35.62,Los Angeles,109756,Electric,Manual,No
+689,Toyota,Truck,2015,47.63,Houston,66,Diesel,Automatic,Yes
+690,BMW,Truck,2001,46.85,Miami,114159,Petrol,Automatic,No
+691,Nissan,Sedan,2009,98.28,Miami,176318,Diesel,Manual,Yes
+692,Nissan,Convertible,2001,88.52,New York,7533,Electric,Manual,No
+693,Honda,Sedan,2015,76.09,Chicago,115828,Diesel,Automatic,No
+694,Toyota,Truck,2015,78.16,Los Angeles,59658,Electric,Automatic,No
+695,Toyota,SUV,2018,64.97,New York,38498,Electric,Automatic,No
+696,Ford,Truck,2006,95.77,Chicago,109028,Diesel,Manual,No
+697,Honda,Convertible,2021,59.7,Houston,11772,Hybrid,Manual,No
+698,Ford,Truck,2011,50.44,Miami,89385,Petrol,Automatic,Yes
+699,Ford,Convertible,2014,33.04,Los Angeles,180108,Hybrid,Manual,No
+700,Ford,Convertible,2007,82.9,Miami,189603,Hybrid,Automatic,Yes
+701,BMW,Convertible,2005,78.76,Houston,12940,Diesel,Manual,No
+702,BMW,Convertible,2009,50.75,Chicago,118027,Petrol,Automatic,Yes
+703,Ford,Convertible,2002,22.02,Houston,16932,Petrol,Automatic,Yes
+704,Honda,SUV,2018,87.12,Houston,187899,Hybrid,Manual,Yes
+705,Toyota,Sedan,2016,20.91,Miami,192503,Diesel,Manual,Yes
+706,Honda,Hatchback,2006,76.3,Los Angeles,24648,Petrol,Manual,Yes
+707,Nissan,Sedan,2020,97.62,Houston,32966,Hybrid,Manual,Yes
+708,BMW,Convertible,2019,55.01,Miami,158849,Petrol,Manual,No
+709,Toyota,SUV,2003,38.8,Los Angeles,163639,Diesel,Manual,Yes
+710,Toyota,Truck,2013,76.39,Chicago,148246,Diesel,Automatic,No
+711,Nissan,SUV,2019,85.37,Chicago,42598,Diesel,Manual,No
+712,Nissan,Convertible,2021,63.71,New York,190271,Petrol,Automatic,Yes
+713,Ford,SUV,2014,97.36,Miami,144870,Electric,Automatic,Yes
+714,BMW,SUV,2007,24.13,Los Angeles,196436,Petrol,Manual,No
+715,BMW,Convertible,2020,60.38,Houston,148630,Electric,Automatic,Yes
+716,Honda,SUV,2014,77.48,Chicago,61084,Diesel,Automatic,Yes
+717,Ford,Hatchback,2021,89.01,Los Angeles,175309,Hybrid,Manual,Yes
+718,Ford,Hatchback,2019,34.34,Miami,196569,Electric,Manual,Yes
+719,Ford,SUV,2013,84.0,New York,131250,Diesel,Manual,Yes
+720,Ford,Truck,2008,64.22,Chicago,17118,Diesel,Automatic,Yes
+721,BMW,Convertible,2007,51.72,Los Angeles,22616,Electric,Manual,Yes
+722,BMW,Hatchback,2016,30.54,Los Angeles,131870,Hybrid,Manual,No
+723,Ford,Truck,2001,89.22,Los Angeles,7601,Diesel,Manual,Yes
+724,Honda,SUV,2002,32.58,Miami,25363,Electric,Manual,No
+725,Toyota,Truck,2007,44.78,Miami,2795,Hybrid,Automatic,No
+726,Toyota,Sedan,2011,43.2,Miami,97462,Hybrid,Manual,No
+727,Honda,Hatchback,2000,89.71,Houston,176336,Diesel,Automatic,No
+728,Ford,SUV,2009,73.82,Los Angeles,102892,Petrol,Manual,Yes
+729,BMW,Convertible,2019,83.73,Chicago,72833,Petrol,Automatic,No
+730,Toyota,SUV,2002,40.04,Miami,3084,Diesel,Automatic,No
+731,Nissan,Convertible,2005,69.99,Miami,95865,Hybrid,Automatic,No
+732,Nissan,SUV,2006,65.74,Los Angeles,731,Diesel,Manual,No
+733,Honda,Truck,2019,86.63,Miami,132201,Electric,Automatic,No
+734,Ford,Truck,2022,92.49,Houston,159094,Petrol,Manual,Yes
+735,Toyota,Truck,2017,20.97,Houston,1605,Electric,Manual,Yes
+736,Ford,Sedan,2010,73.92,Miami,77506,Diesel,Manual,No
+737,Toyota,Convertible,2018,24.15,Los Angeles,44130,Diesel,Manual,Yes
+738,Honda,Truck,2004,63.91,Los Angeles,160337,Hybrid,Manual,Yes
+739,Honda,Sedan,2018,43.01,Los Angeles,163402,Hybrid,Automatic,No
+740,Nissan,Convertible,2010,44.54,New York,68469,Hybrid,Manual,No
+741,Ford,SUV,2011,48.24,Miami,146259,Electric,Automatic,No
+742,Nissan,Sedan,2009,69.7,Los Angeles,156863,Hybrid,Automatic,Yes
+743,Ford,Hatchback,2007,46.72,Houston,90436,Diesel,Automatic,No
+744,Nissan,Sedan,2008,78.62,Chicago,112341,Hybrid,Automatic,Yes
+745,BMW,Sedan,2003,52.36,Chicago,170939,Petrol,Automatic,Yes
+746,BMW,Convertible,2004,25.47,Los Angeles,131965,Hybrid,Automatic,Yes
+747,BMW,SUV,2020,82.7,Chicago,99694,Electric,Automatic,No
+748,BMW,Hatchback,2007,42.86,Chicago,19773,Petrol,Manual,Yes
+749,Toyota,Truck,2022,54.62,New York,4239,Petrol,Automatic,No
+750,BMW,Truck,2008,74.84,Houston,20863,Petrol,Manual,No
+751,Honda,Sedan,2014,46.6,Houston,51415,Electric,Automatic,No
+752,Honda,Convertible,2014,24.53,New York,68968,Diesel,Automatic,No
+753,Toyota,Convertible,2015,49.91,New York,60430,Hybrid,Automatic,No
+754,BMW,Truck,2013,95.56,Chicago,1515,Petrol,Automatic,Yes
+755,BMW,Hatchback,2007,71.34,Miami,97206,Petrol,Manual,Yes
+756,BMW,SUV,2017,73.72,Chicago,145677,Petrol,Manual,Yes
+757,Nissan,Hatchback,2009,70.58,New York,56240,Diesel,Manual,Yes
+758,Ford,SUV,2019,35.92,Houston,5586,Diesel,Automatic,Yes
+759,Nissan,Truck,2005,53.47,Chicago,120419,Electric,Automatic,No
+760,Ford,SUV,2011,80.08,Miami,122374,Diesel,Automatic,No
+761,BMW,Convertible,2001,28.11,Chicago,31186,Hybrid,Manual,Yes
+762,BMW,Sedan,2006,42.23,Los Angeles,26928,Electric,Automatic,Yes
+763,Nissan,Sedan,2015,42.11,Chicago,122990,Electric,Manual,Yes
+764,Nissan,Truck,2002,54.56,New York,87029,Hybrid,Manual,No
+765,Ford,Convertible,2012,98.43,Houston,20711,Hybrid,Automatic,No
+766,Honda,Hatchback,2002,25.4,Houston,54962,Hybrid,Automatic,No
+767,Ford,Convertible,2017,61.5,New York,20039,Electric,Manual,Yes
+768,Nissan,Sedan,2010,34.35,Los Angeles,36561,Electric,Manual,Yes
+769,Nissan,Sedan,2007,97.65,New York,1577,Electric,Manual,Yes
+770,Toyota,Convertible,2005,29.06,Chicago,107792,Hybrid,Automatic,Yes
+771,Nissan,Convertible,2000,52.29,New York,159422,Hybrid,Automatic,No
+772,Toyota,Sedan,2000,79.03,New York,164870,Petrol,Automatic,Yes
+773,Honda,Hatchback,2022,76.36,Los Angeles,10785,Diesel,Automatic,Yes
+774,Ford,Truck,2007,53.82,Chicago,72227,Petrol,Automatic,Yes
+775,Ford,Truck,2004,47.72,Miami,118680,Hybrid,Automatic,No
+776,Toyota,Convertible,2015,51.81,Miami,61957,Electric,Manual,No
+777,Ford,Truck,2010,41.14,Houston,65431,Hybrid,Manual,Yes
+778,Nissan,Sedan,2004,36.43,New York,148369,Diesel,Manual,No
+779,BMW,Sedan,2003,58.64,Houston,71894,Petrol,Automatic,No
+780,Toyota,Convertible,2005,41.48,Los Angeles,194844,Petrol,Manual,No
+781,Ford,Convertible,2013,43.0,Miami,150653,Electric,Automatic,No
+782,Toyota,Convertible,2021,72.54,New York,55192,Petrol,Automatic,No
+783,Toyota,Hatchback,2018,97.48,Los Angeles,1462,Petrol,Manual,Yes
+784,BMW,Truck,2008,68.29,Los Angeles,128848,Hybrid,Automatic,Yes
+785,Nissan,Convertible,2011,26.16,New York,195245,Petrol,Manual,Yes
+786,Toyota,SUV,2010,26.05,Los Angeles,146583,Petrol,Manual,No
+787,Ford,SUV,2013,96.11,New York,76106,Petrol,Automatic,No
+788,Honda,Sedan,2022,43.78,New York,48665,Electric,Manual,No
+789,Toyota,Truck,2015,27.37,Chicago,175486,Electric,Manual,No
+790,Toyota,Convertible,2000,67.92,Houston,81010,Hybrid,Manual,Yes
+791,BMW,SUV,2012,69.89,Los Angeles,72573,Petrol,Manual,Yes
+792,Nissan,Truck,2022,71.88,Los Angeles,107803,Electric,Automatic,Yes
+793,Honda,Sedan,2020,41.39,Chicago,119682,Electric,Manual,Yes
+794,Ford,Hatchback,2020,21.21,Chicago,13386,Hybrid,Manual,Yes
+795,Honda,Truck,2012,97.2,Chicago,124069,Diesel,Manual,Yes
+796,Ford,Truck,2001,40.07,Miami,54460,Petrol,Automatic,No
+797,Nissan,Hatchback,2003,74.08,Miami,137293,Electric,Manual,No
+798,Ford,Truck,2005,76.53,Miami,154546,Hybrid,Automatic,Yes
+799,BMW,Sedan,2022,68.8,New York,115375,Hybrid,Manual,No
+800,BMW,Sedan,2004,45.03,Los Angeles,112660,Hybrid,Manual,Yes
+801,BMW,Hatchback,2002,41.69,Houston,152117,Electric,Manual,Yes
+802,BMW,Convertible,2000,67.81,New York,91319,Petrol,Automatic,No
+803,Honda,SUV,2003,89.29,Los Angeles,116582,Diesel,Automatic,Yes
+804,Nissan,Convertible,2019,95.74,Los Angeles,135994,Petrol,Automatic,Yes
+805,Ford,Truck,2001,28.47,Chicago,153778,Hybrid,Automatic,Yes
+806,Ford,SUV,2004,32.39,Chicago,42771,Hybrid,Automatic,No
+807,BMW,Hatchback,2002,95.58,New York,52335,Diesel,Automatic,No
+808,BMW,Hatchback,2008,78.92,Chicago,52949,Petrol,Manual,No
+809,Toyota,SUV,2019,90.64,Los Angeles,95558,Hybrid,Automatic,No
+810,Nissan,Sedan,2005,36.21,Chicago,146312,Hybrid,Manual,Yes
+811,Honda,SUV,2017,67.01,Miami,102272,Petrol,Automatic,No
+812,Ford,Truck,2005,76.09,Chicago,2716,Hybrid,Automatic,No
+813,Toyota,Sedan,2018,74.41,Los Angeles,147646,Petrol,Automatic,No
+814,Toyota,Hatchback,2011,52.65,New York,175138,Hybrid,Manual,Yes
+815,Ford,SUV,2010,21.23,Houston,192898,Petrol,Automatic,No
+816,Honda,Convertible,2001,66.63,Chicago,151285,Diesel,Automatic,No
+817,Toyota,Convertible,2014,40.25,Los Angeles,71916,Hybrid,Manual,Yes
+818,Toyota,Truck,2011,56.02,Houston,197223,Diesel,Manual,Yes
+819,Nissan,Convertible,2011,96.61,Houston,50906,Hybrid,Manual,Yes
+820,Honda,SUV,2008,51.92,Miami,463,Hybrid,Manual,Yes
+821,Toyota,SUV,2020,87.18,Houston,163045,Electric,Automatic,No
+822,Honda,Convertible,2001,35.08,Los Angeles,74694,Petrol,Manual,Yes
+823,Ford,SUV,2021,73.8,Los Angeles,151723,Diesel,Automatic,No
+824,BMW,Truck,2002,98.16,Chicago,68694,Diesel,Automatic,No
+825,Toyota,Sedan,2011,28.15,Chicago,20008,Diesel,Manual,No
+826,Nissan,Truck,2015,20.67,Chicago,70474,Petrol,Automatic,No
+827,Ford,Truck,2020,54.69,Houston,38185,Electric,Manual,No
+828,Honda,SUV,2000,27.41,Houston,87924,Diesel,Automatic,Yes
+829,Ford,Sedan,2020,79.87,Miami,34980,Petrol,Manual,No
+830,Toyota,SUV,2002,93.16,Chicago,22504,Hybrid,Manual,No
+831,Honda,Hatchback,2019,54.72,New York,54970,Diesel,Manual,No
+832,BMW,SUV,2001,40.7,Miami,16766,Diesel,Manual,Yes
+833,Ford,SUV,2008,54.75,New York,116944,Electric,Manual,No
+834,Toyota,SUV,2018,77.88,Houston,93922,Diesel,Manual,No
+835,Nissan,Sedan,2014,20.72,Miami,142767,Diesel,Automatic,Yes
+836,Honda,SUV,2017,67.16,Miami,148868,Hybrid,Automatic,No
+837,Ford,Sedan,2010,69.06,Los Angeles,173615,Petrol,Automatic,No
+838,Ford,Convertible,2022,71.02,Houston,145631,Petrol,Manual,Yes
+839,BMW,Hatchback,2015,39.36,Houston,164211,Electric,Automatic,No
+840,BMW,Sedan,2021,77.12,Miami,120494,Hybrid,Manual,No
+841,Nissan,Convertible,2016,27.31,Houston,8802,Petrol,Automatic,No
+842,Nissan,Sedan,2004,35.94,Miami,171277,Hybrid,Automatic,No
+843,Toyota,Sedan,2011,90.2,Los Angeles,34159,Petrol,Manual,No
+844,Toyota,Hatchback,2010,79.1,Miami,11516,Hybrid,Automatic,Yes
+845,Nissan,Truck,2014,21.1,Houston,50492,Electric,Automatic,Yes
+846,Nissan,Truck,2002,39.87,Houston,29086,Diesel,Automatic,Yes
+847,Honda,Sedan,2000,37.15,Miami,113758,Electric,Manual,No
+848,BMW,SUV,2019,41.66,Miami,30480,Petrol,Automatic,No
+849,Toyota,Convertible,2015,39.8,Miami,183163,Electric,Manual,No
+850,BMW,SUV,2001,25.0,Chicago,128023,Diesel,Automatic,Yes
+851,BMW,SUV,2001,56.72,Houston,110195,Electric,Automatic,No
+852,Nissan,Sedan,2002,78.62,Houston,178838,Petrol,Automatic,No
+853,Honda,Sedan,2007,68.54,Chicago,38737,Petrol,Automatic,No
+854,Ford,Sedan,2014,73.83,Miami,9265,Electric,Manual,Yes
+855,Honda,Sedan,2006,26.49,Los Angeles,114165,Diesel,Automatic,Yes
+856,Honda,Truck,2005,96.12,Miami,119501,Electric,Manual,No
+857,BMW,Sedan,2008,87.08,Miami,70990,Diesel,Manual,No
+858,Honda,Truck,2019,84.41,Chicago,15386,Hybrid,Automatic,No
+859,Toyota,Truck,2000,85.84,Houston,104718,Diesel,Automatic,Yes
+860,BMW,Sedan,2007,94.62,Miami,37425,Hybrid,Manual,Yes
+861,Toyota,Hatchback,2022,63.54,Houston,121635,Electric,Manual,Yes
+862,Ford,Convertible,2022,36.02,New York,174326,Diesel,Automatic,No
+863,BMW,SUV,2002,69.34,Houston,53634,Hybrid,Automatic,Yes
+864,Ford,Truck,2003,79.43,Los Angeles,178734,Hybrid,Automatic,No
+865,BMW,Convertible,2014,79.03,Los Angeles,86988,Hybrid,Automatic,No
+866,Nissan,Hatchback,2005,61.72,Miami,106337,Petrol,Automatic,Yes
+867,Honda,SUV,2014,25.48,Houston,141215,Electric,Manual,No
+868,Nissan,SUV,2020,49.69,Miami,146653,Hybrid,Automatic,Yes
+869,Ford,Truck,2002,93.66,Chicago,67443,Diesel,Automatic,No
+870,Honda,Sedan,2020,66.76,Los Angeles,29424,Hybrid,Manual,No
+871,BMW,Hatchback,2020,63.07,Miami,88844,Petrol,Automatic,Yes
+872,Honda,Truck,2013,41.51,Chicago,41984,Electric,Automatic,No
+873,Toyota,Hatchback,2019,49.48,Miami,41505,Petrol,Manual,No
+874,Honda,Sedan,2013,91.63,Houston,102478,Petrol,Automatic,No
+875,Toyota,Sedan,2003,73.32,Houston,62699,Petrol,Manual,No
+876,Honda,Truck,2011,82.99,Houston,158029,Diesel,Automatic,No
+877,Toyota,Sedan,2016,56.35,Houston,156536,Electric,Automatic,No
+878,Ford,Convertible,2006,70.42,New York,114012,Electric,Automatic,No
+879,Nissan,SUV,2008,39.87,Chicago,154721,Diesel,Manual,No
+880,BMW,Truck,2002,76.44,Chicago,173137,Electric,Manual,Yes
+881,Honda,Hatchback,2012,54.21,Houston,34758,Petrol,Manual,Yes
+882,Nissan,Convertible,2014,55.4,New York,136668,Electric,Manual,No
+883,BMW,Truck,2017,71.95,Houston,16374,Diesel,Automatic,No
+884,BMW,Sedan,2018,94.9,New York,118686,Petrol,Manual,Yes
+885,Toyota,Sedan,2000,25.12,Houston,3775,Diesel,Manual,No
+886,Ford,Sedan,2005,85.98,Los Angeles,27388,Hybrid,Manual,Yes
+887,Ford,Sedan,2022,43.39,Los Angeles,123800,Petrol,Automatic,Yes
+888,Nissan,Hatchback,2001,55.51,Miami,21029,Petrol,Automatic,Yes
+889,Ford,Convertible,2013,21.75,Houston,83981,Electric,Manual,No
+890,Honda,SUV,2005,44.08,Chicago,53639,Petrol,Manual,No
+891,Ford,Hatchback,2013,60.21,Miami,114010,Diesel,Automatic,No
+892,Nissan,Hatchback,2003,24.49,Los Angeles,145717,Electric,Manual,Yes
+893,Ford,SUV,2020,59.29,Houston,31105,Hybrid,Manual,Yes
+894,Honda,SUV,2007,94.17,Miami,144740,Diesel,Manual,Yes
+895,Toyota,Sedan,2002,28.43,Houston,147032,Hybrid,Manual,No
+896,Nissan,Hatchback,2018,81.16,Los Angeles,126519,Hybrid,Automatic,Yes
+897,Toyota,Truck,2013,52.77,Miami,142429,Hybrid,Automatic,Yes
+898,Toyota,SUV,2019,72.41,Los Angeles,195676,Petrol,Automatic,No
+899,Toyota,SUV,2016,40.82,New York,102739,Diesel,Manual,Yes
+900,BMW,Convertible,2007,32.76,Los Angeles,51796,Diesel,Manual,Yes
+901,BMW,Truck,2013,32.84,Houston,15804,Petrol,Automatic,No
+902,Toyota,Truck,2005,25.64,Chicago,127732,Electric,Automatic,No
+903,Nissan,SUV,2022,34.85,Los Angeles,145698,Hybrid,Automatic,Yes
+904,Honda,Sedan,2021,73.14,Chicago,159204,Diesel,Manual,No
+905,Honda,Convertible,2015,90.54,New York,7951,Petrol,Automatic,Yes
+906,Ford,Truck,2018,85.13,Miami,137521,Hybrid,Manual,No
+907,Nissan,SUV,2013,74.81,Miami,19065,Electric,Manual,Yes
+908,BMW,Truck,2018,28.83,Chicago,101503,Electric,Automatic,No
+909,Toyota,Convertible,2002,43.13,Miami,105072,Hybrid,Automatic,Yes
+910,Ford,Convertible,2009,44.78,Los Angeles,140202,Electric,Manual,No
+911,Honda,Hatchback,2018,40.0,Chicago,89360,Diesel,Automatic,No
+912,BMW,SUV,2008,61.2,Houston,62287,Diesel,Automatic,No
+913,BMW,Convertible,2019,62.84,Los Angeles,182774,Diesel,Manual,No
+914,Toyota,Hatchback,2012,48.55,Los Angeles,168065,Electric,Manual,No
+915,Honda,Hatchback,2006,48.3,Los Angeles,162947,Diesel,Manual,No
+916,Nissan,Truck,2013,86.28,Houston,137126,Petrol,Manual,No
+917,BMW,Truck,2008,83.14,New York,107357,Diesel,Manual,Yes
+918,Toyota,Hatchback,2022,44.62,Miami,179589,Diesel,Automatic,Yes
+919,Nissan,Truck,2018,93.1,Chicago,29670,Electric,Manual,No
+920,Honda,Convertible,2014,96.23,New York,49112,Diesel,Manual,No
+921,BMW,Sedan,2019,46.14,Chicago,88388,Hybrid,Manual,Yes
+922,Nissan,Convertible,2013,48.35,Miami,89156,Petrol,Automatic,Yes
+923,Nissan,Hatchback,2005,60.45,Houston,159379,Electric,Manual,No
+924,Nissan,Hatchback,2020,95.29,Los Angeles,198159,Petrol,Manual,Yes
+925,BMW,Convertible,2003,90.11,Los Angeles,47922,Hybrid,Manual,Yes
+926,BMW,Truck,2007,28.21,Houston,194152,Electric,Automatic,No
+927,Ford,Truck,2016,51.42,New York,93348,Electric,Manual,No
+928,Honda,Hatchback,2008,64.27,New York,79335,Diesel,Manual,No
+929,Toyota,SUV,2000,60.25,Chicago,26312,Petrol,Manual,Yes
+930,Nissan,Truck,2019,35.51,Houston,66985,Hybrid,Automatic,No
+931,Ford,Convertible,2013,88.71,New York,130744,Hybrid,Automatic,No
+932,Toyota,Truck,2010,74.16,Houston,188680,Electric,Automatic,Yes
+933,Ford,Convertible,2020,87.03,Miami,100963,Diesel,Automatic,No
+934,BMW,Hatchback,2002,88.7,Los Angeles,171349,Electric,Manual,Yes
+935,Nissan,Truck,2008,79.87,Los Angeles,31551,Electric,Manual,Yes
+936,Toyota,Convertible,2013,55.14,Los Angeles,89813,Electric,Automatic,Yes
+937,Toyota,Hatchback,2008,68.84,Houston,187669,Electric,Automatic,Yes
+938,Toyota,SUV,2003,32.83,Houston,101025,Hybrid,Manual,Yes
+939,Toyota,Convertible,2003,73.89,Chicago,124342,Hybrid,Manual,Yes
+940,Toyota,SUV,2007,34.34,Los Angeles,176284,Electric,Automatic,No
+941,Ford,SUV,2001,75.52,Chicago,9637,Electric,Automatic,No
+942,Nissan,Sedan,2008,38.37,Los Angeles,43258,Diesel,Automatic,No
+943,BMW,Truck,2013,29.4,Chicago,166765,Electric,Automatic,Yes
+944,BMW,Convertible,2021,33.22,Chicago,140896,Hybrid,Manual,No
+945,BMW,SUV,2008,20.16,Miami,129553,Petrol,Automatic,Yes
+946,BMW,Sedan,2022,77.5,Chicago,26950,Hybrid,Automatic,No
+947,Ford,Hatchback,2015,78.59,Houston,154560,Diesel,Manual,Yes
+948,Honda,Convertible,2016,61.19,Chicago,127870,Hybrid,Manual,No
+949,Nissan,SUV,2015,32.91,Los Angeles,215,Petrol,Manual,Yes
+950,Toyota,Truck,2011,26.68,Chicago,105603,Electric,Manual,No
+951,Honda,Sedan,2002,21.53,New York,11523,Petrol,Manual,Yes
+952,BMW,SUV,2010,33.26,Los Angeles,68689,Electric,Automatic,No
+953,Honda,Truck,2013,91.27,New York,23834,Electric,Automatic,Yes
+954,Nissan,SUV,2017,39.32,Los Angeles,34474,Hybrid,Automatic,No
+955,Toyota,Convertible,2020,48.34,Houston,43066,Hybrid,Manual,No
+956,Toyota,Convertible,2020,28.43,Houston,10400,Hybrid,Automatic,No
+957,Nissan,Convertible,2004,37.79,Houston,125211,Diesel,Manual,Yes
+958,Nissan,Sedan,2015,61.54,New York,10345,Hybrid,Automatic,Yes
+959,BMW,Convertible,2019,68.62,Miami,33896,Diesel,Automatic,Yes
+960,Toyota,Truck,2004,39.63,Los Angeles,28899,Hybrid,Manual,Yes
+961,Honda,SUV,2002,24.62,Houston,28229,Electric,Manual,Yes
+962,Ford,Hatchback,2011,51.28,Los Angeles,5583,Diesel,Automatic,No
+963,Ford,Truck,2000,38.74,New York,135969,Petrol,Automatic,Yes
+964,Nissan,Truck,2020,37.56,Miami,71537,Diesel,Automatic,No
+965,BMW,Convertible,2008,96.79,New York,135639,Diesel,Automatic,No
+966,Ford,Sedan,2008,69.3,Los Angeles,74807,Petrol,Automatic,Yes
+967,Toyota,SUV,2003,64.55,Miami,129648,Diesel,Manual,No
+968,Nissan,Sedan,2002,53.26,Miami,112652,Electric,Manual,Yes
+969,Honda,SUV,2016,54.32,New York,144401,Hybrid,Manual,Yes
+970,Nissan,SUV,2001,63.27,Houston,71792,Petrol,Manual,Yes
+971,Honda,Sedan,2000,75.71,Los Angeles,131300,Hybrid,Automatic,No
+972,Nissan,Truck,2007,76.17,Chicago,37052,Electric,Automatic,Yes
+973,Nissan,SUV,2012,33.74,Chicago,188841,Petrol,Manual,Yes
+974,Nissan,Sedan,2022,60.01,New York,46032,Hybrid,Automatic,Yes
+975,Honda,SUV,2014,52.96,Los Angeles,33686,Hybrid,Manual,No
+976,Honda,Hatchback,2007,89.64,Los Angeles,76981,Electric,Automatic,Yes
+977,Nissan,Truck,2011,70.51,New York,98802,Hybrid,Automatic,No
+978,Ford,Convertible,2021,62.6,Los Angeles,194333,Electric,Automatic,No
+979,BMW,SUV,2011,29.23,Houston,133881,Diesel,Manual,Yes
+980,BMW,Hatchback,2013,68.45,New York,172857,Electric,Manual,No
+981,BMW,Convertible,2014,29.38,Houston,167619,Diesel,Manual,No
+982,Honda,Convertible,2014,46.98,Los Angeles,42818,Petrol,Manual,Yes
+983,Honda,SUV,2008,31.43,New York,100422,Hybrid,Automatic,Yes
+984,Ford,Sedan,2018,75.37,Los Angeles,71927,Electric,Automatic,Yes
+985,BMW,SUV,2019,36.5,New York,196753,Electric,Automatic,No
+986,BMW,Hatchback,2021,51.35,Los Angeles,79465,Hybrid,Automatic,Yes
+987,Nissan,Convertible,2007,91.65,Houston,113221,Hybrid,Manual,No
+988,Honda,SUV,2020,36.35,Houston,37333,Petrol,Automatic,No
+989,BMW,Sedan,2018,60.62,Los Angeles,126457,Petrol,Automatic,No
+990,Ford,SUV,2005,53.54,New York,16576,Electric,Automatic,No
+991,Ford,Truck,2019,21.45,Chicago,119875,Petrol,Manual,No
+992,BMW,Sedan,2018,83.42,Houston,39405,Diesel,Manual,Yes
+993,Honda,Hatchback,2003,25.52,Houston,94000,Petrol,Manual,Yes
+994,Ford,Convertible,2022,57.94,Chicago,31601,Petrol,Automatic,No
+995,Nissan,SUV,2006,64.85,Los Angeles,67946,Electric,Manual,No
+996,Ford,Sedan,2003,70.27,New York,198428,Diesel,Automatic,Yes
+997,Toyota,Truck,2021,75.09,Los Angeles,52116,Petrol,Automatic,Yes
+998,Toyota,Sedan,2011,40.26,Miami,104186,Diesel,Automatic,No
+999,Honda,Truck,2012,20.8,Houston,62894,Diesel,Manual,No
+1000,BMW,Hatchback,2002,77.88,Miami,165707,Diesel,Manual,Yes
